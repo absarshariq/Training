@@ -1,0 +1,13 @@
+C:\Users\890512\Desktop\HandsOn\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.exe
+C:\Users\890512\Desktop\HandsOn\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.deps.json
+C:\Users\890512\Desktop\HandsOn\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.runtimeconfig.json
+C:\Users\890512\Desktop\HandsOn\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.runtimeconfig.dev.json
+C:\Users\890512\Desktop\HandsOn\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.dll
+C:\Users\890512\Desktop\HandsOn\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.pdb
+C:\Users\890512\Desktop\HandsOn\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.csprojAssemblyReference.cache
+C:\Users\890512\Desktop\HandsOn\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.AssemblyInfoInputs.cache
+C:\Users\890512\Desktop\HandsOn\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.AssemblyInfo.cs
+C:\Users\890512\Desktop\HandsOn\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\890512\Desktop\HandsOn\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.dll
+C:\Users\890512\Desktop\HandsOn\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.pdb
+C:\Users\890512\Desktop\HandsOn\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.genruntimeconfig.cache
