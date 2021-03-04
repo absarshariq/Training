@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache

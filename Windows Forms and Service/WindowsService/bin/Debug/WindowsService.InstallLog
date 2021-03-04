@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.exe
+Installing service HandsonWService...
+Service HandsonWService has been successfully installed.
+Creating EventLog source HandsonWService in log Application...
+Committing assembly 'C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.InstallLog
+   assemblypath = C:\Users\Dell\Desktop\Nunit_CaseStudy\WindowsService\bin\Debug\WindowsService.exe
