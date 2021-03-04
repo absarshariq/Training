@@ -1,0 +1,10 @@
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\obj\Debug\CalculatorRadioButton.csprojAssemblyReference.cache
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\obj\Debug\CalculatorRadioButton.Form1.resources
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\obj\Debug\CalculatorRadioButton.Properties.Resources.resources
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\obj\Debug\CalculatorRadioButton.csproj.GenerateResource.cache
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\obj\Debug\CalculatorRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\bin\Debug\CalculatorRadioButton.exe.config
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\bin\Debug\CalculatorRadioButton.exe
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\bin\Debug\CalculatorRadioButton.pdb
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\obj\Debug\CalculatorRadioButton.exe
+C:\Users\890512\Desktop\HandsOn\CalculatorRadioButton\obj\Debug\CalculatorRadioButton.pdb
