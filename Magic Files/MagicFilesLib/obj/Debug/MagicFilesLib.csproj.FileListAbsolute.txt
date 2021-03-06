@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\Nunit_CaseStudy\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Users\Dell\Desktop\Nunit_CaseStudy\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Users\Dell\Desktop\Nunit_CaseStudy\MagicFilesLib\obj\Debug\MagicFilesLib.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Nunit_CaseStudy\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Nunit_CaseStudy\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Users\Dell\Desktop\Nunit_CaseStudy\MagicFilesLib\obj\Debug\MagicFilesLib.pdb

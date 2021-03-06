@@ -1,0 +1,6 @@
+C:\Users\Dell\Desktop\Nunit_CaseStudy\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Users\Dell\Desktop\Nunit_CaseStudy\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Users\Dell\Desktop\Nunit_CaseStudy\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Nunit_CaseStudy\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Nunit_CaseStudy\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Users\Dell\Desktop\Nunit_CaseStudy\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb
