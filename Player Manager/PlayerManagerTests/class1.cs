@@ -10,7 +10,6 @@ using Moq;
 namespace PlayerManagerTests
 {
     [TestFixture]
-    [TestFixture]
     public class testPlayerManager
     {
         Mock<IPlayerMapper> mockPlayer;
